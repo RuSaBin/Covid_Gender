@@ -24,10 +24,16 @@ Keywords: Explainability; Causality; Fairness; COVID-19; Sex; Gender; Equality; 
 
 
 @article{diaz2023gender,
+
   title={Gender and sex bias in COVID-19 epidemiological data through the lenses of causality},
+  
   author={D{\'\i}az-Rodr{\'\i}guez, Natalia and Binkyt{\.e}, R{\=u}ta and Bakkali, Wafae and Bookseller, Sannidhi and Tubaro, Paola and Bacevi{\v{c}}ius, Andrius and Zhioua, Sami and Chatila, Raja},
+  
   journal={Information Processing \& Management},
+  
   pages={103276},
+  
   year={2023},
+  
   publisher={Elsevier}
 }
