@@ -1,4 +1,4 @@
-# Covid_Gender
+# Gender and sex bias in COVID-19 epidemiological data through the lenses of causality
 
 This is the repository holding data and experiments of the paper:
 
